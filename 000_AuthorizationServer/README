@@ -1,0 +1,9 @@
+GRANT_TYPE
+
+	password				자원 소유자 비밀번호 (Resource Owner Password Credentials flow)
+	implicit				암묵적인 동의 방식 (Implicit Grant flow)
+	client_credentials		클라이언트 인증 플로우 (Client Credentials flow)
+	authorization_code		권한 코드 방식 (Authorization Code flow)
+	refresh_token			Refresh Token를 통한 Access Token 재발급
+
+
